@@ -1,5 +1,3 @@
-
-<JORAMAE>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -73,7 +71,7 @@ span.psw {
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
   padding-top: 60px;
 }
-
+h2<JORAMAE>
 /* Modal Content/Box */
 .modal-content {
   background-color: #fefefe;
