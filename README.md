@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!!GOODLUCK!!>
 <html>
 <head>
   <title>Basic Snake HTML Game</title>
