@@ -167,17 +167,17 @@ window.onclick = function(event) {
     }
 }
 
-<head>
+
 <style>
-body {
+ {
   background-image: url('img_girl.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
 }
 </style>
-</head>
-<body>
+
+
 
 <h2>Background Stretch</h2>
 
