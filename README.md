@@ -167,10 +167,13 @@ window.onclick = function(event) {
     }
 }
 
-   background-image: url('img_girl.jpg');
+<head>
+<style>
+body {
+  background-image: url('img_girl.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: 100% 100%;
+  background-attachment: fixed;  
+  background-size: cover;
 }
 </style>
 </head>
