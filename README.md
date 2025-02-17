@@ -1,171 +1,126 @@
-<!!GOODLUCK!!>
+<!DOCTYPE html>
 <html>
 <head>
-  <title>Basic Snake HTML Game</title>
-  <meta charset="UTF-8">
-  <style>
-  html, body {
-    height: 100%;
-    margin: 0;
-  }
-
-  body {
-    background: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  canvas {
-    border: 1px solid white;
-  }
-  </style>
+<meta charset="UTF-8">
+<title>Go Tours Free Website Template | Free CSS Templates | Free CSS</title>
+<meta name="description" content="Preview of the Go Tours Free CSS Template from HTML Design">
+<meta name="keywords" content="Free CSS, Free CSS Templates, CSS Website Templates, Templates, Free Templates, CSS, Web Site Templates, Free CSS Menus">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/profile/styles/layout.css" type="text/css" media="all">
+<link rel="shortcut icon" href="/profile/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/profile/favicon.ico" type="image/x-icon">
+<link rel="alternate" href="/feed.xml" type="application/rss+xml" title="Latest Free Website Templates from Free CSS">
+<link rel="canonical" href="https://www.free-css.com/free-css-templates/page257/go-tours">
+<link rel="stylesheet" href="/profile/scripts/greybox/gb_styles.css" type="text/css">
+<script>var GB_ROOT_DIR = "https://www.free-css.com/profile/scripts/greybox/";</script>
+<script src="/profile/scripts/greybox/AJS.js"></script>
+<script src="/profile/scripts/greybox/gb_scripts.js"></script>
 </head>
 <body>
-<canvas width="400" height="400" id="game"></canvas>
+<div class="wrapper row1">
+  <div id="topbar" class="clear">
+    <nav><ul><li><a href="/" title="Home">Home</a></li><li><a href="/submit-a-template" title="Submit a Free CSS Template">Submit a Template</a></li><li><a href="/contact-us" title="Contact Us">Contact Us</a></li><li><a href="/search" title="Search">Search</a></li><li><a href="/advertise" title="Advertise">Advertise</a></li></ul></nav>
+  </div>
+</div>
+<div class="wrapper row2">
+  <header id="header">
+    <div id="hgroup">
+      <h1><a href="https://www.free-css.com/" title="Free CSS">Free CSS</a></h1>
+      <h2>Free CSS Templates, CSS Layouts &amp; More!</h2>
+    </div>
+    <div class="ostbanner"><a href="//www.os-templates.com/"><img src="/assets/images/ost-468x60.jpg" alt="Free and Premium Website Templates" title="Download Free Website Templates"></a></div>
+    <div id="topbanner"><div id="bsap_1306116" class="bsarocks bsap_b893e54e42ad5b76e7b252f59be18e67"></div></div>
+    <nav id="topnav"><ul><li><a href="/free-css-templates" title="Free CSS Templates">Free CSS Templates</a></li><li><a href="/commercial-templates" title="Premium CSS Templates">Premium CSS Templates</a></li><li><a href="/free-css-layouts" title="Free CSS Layouts">Free CSS Layouts</a></li><li><a href="/free-css-menus" title="Free CSS Menus">Free CSS Menus</a></li></ul></nav>
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <div id="shout">
+    <div id="bsap_2365" class="bsarocks bsap_b893e54e42ad5b76e7b252f59be18e67"></div>
+  </div>
+</div>
+<!-- content -->
+<div class="wrapper row4">
+  <div id="container">
+    <!-- ################################################################################################ -->
+<div id="content">
+  <h1><span>Go Tours Free CSS Template</span></h1>
+  <div id="prevdetails" class="clear">
+	<div class="fl_left">
+      <ul class="social clear">
+        <li><a rel="nofollow noopener" target="_blank" title="facebook" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.free-css.com%2Ffree-css-templates%2Fpage257%2Fgo-tours&amp;t=Go%20Tours"><span><em>facebook</em></span></a></li>
+<li><a rel="nofollow noopener" target="_blank" title="twitter" href="http://twitter.com/home?status=Go%20Tours%20-%20https%3A%2F%2Fwww.free-css.com%2Ffree-css-templates%2Fpage257%2Fgo-tours"><span><em>twitter</em></span></a></li>
+<li><a rel="nofollow noopener" target="_blank" title="google" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=https%3A%2F%2Fwww.free-css.com%2Ffree-css-templates%2Fpage257%2Fgo-tours&amp;title=Go%20Tours&amp;annotation=Go%20Tours"><span><em>google</em></span></a></li>
+<li><a rel="nofollow noopener" target="_blank" title="reddit" href="http://reddit.com/submit?url=https%3A%2F%2Fwww.free-css.com%2Ffree-css-templates%2Fpage257%2Fgo-tours&amp;title=Go%20Tours"><span><em>reddit</em></span></a></li>
+<li><a rel="nofollow noopener" target="_blank" title="stumbleupon" href="http://www.stumbleupon.com/submit?url=https%3A%2F%2Fwww.free-css.com%2Ffree-css-templates%2Fpage257%2Fgo-tours&amp;title=Go%20Tours"><span><em>stumbleupon</em></span></a></li>
+
+      </ul>
+      <img src="/assets/images/free-css-templates/page257/go-tours.jpg" alt="Go Tours Free CSS Template" title="Go Tours">
+    </div>
+    <div class="fl_right">
+      <ul>
+        <li class="authorname" title="Templates Author"><strong>HTML Design</strong></li>
+        <li class="doctype" title="Doctype Used">HTML 5</li>
+        <li class="layout" title="Website Layout">Responsive, 4 Columns</li>
+        <li class="contrast" title="Colour Contrast">Dark on Light</li>
+        <li class="colours" title="Main Colours Used">
+          <ul>
+            <li><img src="/profile/images/preview/colours/purple.gif" alt="Purple Icon" title="Purple"></li><li><img src="/profile/images/preview/colours/white.gif" alt="White Icon" title="White"></li>
+          </ul>
+        </li>
+        <li class="licence" title="Template Licence Type"><a href="/help-and-support/copyright-notice#terms-of-use">Creative Commons</a></li>
+        <li class="added last" title="Published on">10 August 2020</li>
+      </ul>
+    </div>
+	<div class="tags"><ul><li><a href="/template-categories/bootstrap" title="View More Bootstrap Website Templates">Bootstrap</a></li><li><a href="/template-categories/holiday" title="View More Holiday Website Templates">Holiday</a></li><li><a href="/template-categories/jquery" title="View More jQuery Website Templates">jQuery</a></li><li><a href="/template-categories/lifestyle" title="View More Lifestyle Website Templates">Lifestyle</a></li><li><a href="/template-categories/one-page" title="View More One Page Website Templates">One Page</a></li><li><a href="/template-categories/travel" title="View More Travel Website Templates">Travel</a></li><li><a href="/template-categories/responsive" title="View More Responsive Website Templates">Responsive</a></li></ul></div>
+    <div class="buttons">
+      <ul class="clear">
+        <li class="dld"><a rel="nofollow" href="/assets/files/free-css-templates/download/page257/go-tours.zip" download="Go Tours Free Website Template - Free-CSS.com.zip" title="Download the Go Tours website template">Download</a></li>
+        <li class="demo"><a onclick="return GB_showFullScreen('Go Tours Template Demo', this.href)" href="/assets/files/free-css-templates/preview/page257/go-tours/">Live Demo</a></li>
+      </ul>
+    </div>
+  </div>
+  <nav class="pagination">
+    <ul class="prvnxt clear"><li><a href="/free-css-templates/page257/miresa" title="Miresa Free CSS Template">&laquo; Miresa Template</a></li><li><a href="/free-css-templates/page257" title="Website Templates">Templates</a></li><li>-</li></ul>
+  </nav>
+</div>
+    <!-- right column -->
+    <aside id="right_column">
+  <div id="bsa">
+    <h6><span>Our Sponsors</span></h6>
+    <div id="bsap_1279659" class="bsarocks bsap_b893e54e42ad5b76e7b252f59be18e67"></div>
+    <div id="bsap_1635" class="bsarocks bsap_b893e54e42ad5b76e7b252f59be18e67"></div>
+    <div class="clear"></div>
+  </div>
+</aside>
+    <!-- ################################################################################################ -->
+    
+    <div class="clear"></div>
+  </div>
+</div>
+<!-- ############################ -->
+<div class="wrapper row5">
+  <footer id="copyright" class="clear">
+    <p class="fl_left">Copyright &copy; 2007 - 2023 - <a href="https://www.free-css.com/" title="Free CSS">Free CSS</a>. All Rights Reserved</p>
+    <p class="fl_right"><a href="/sitemap.xml">XML Sitemap</a> | <a href="/help-and-support/privacy-policy">Privacy</a></p>
+  </footer>
+</div>
+<script src="/profile/scripts/jquery-latest.min.js"></script>
+<script src="/profile/scripts/jquery.divascookies.min.js"></script>
 <script>
-var canvas = document.getElementById('game');
-var context = canvas.getContext('2d');
-
-// the canvas width & height, snake x & y, and the apple x & y, all need to be a multiples of the grid size in order for collision detection to work
-// (e.g. 16 * 25 = 400)
-var grid = 16;
-var count = 0;
-
-var snake = {
-  x: 160,
-  y: 160,
-
-  // snake velocity. moves one grid length every frame in either the x or y direction
-  dx: grid,
-  dy: 0,
-
-  // keep track of all grids the snake body occupies
-  cells: [],
-
-  // length of the snake. grows when eating an apple
-  maxCells: 4
-};
-var apple = {
-  x: 320,
-  y: 320
-};
-
-// get random whole numbers in a specific range
-// @see https://stackoverflow.com/a/1527820/2124254
-function getRandomInt(min, max) {
-  return Math.floor(Math.random() * (max - min)) + min;
-}
-
-// game loop
-function loop() {
-  requestAnimationFrame(loop);
-
-  // slow game loop to 15 fps instead of 60 (60/15 = 4)
-  if (++count < 4) {
-    return;
-  }
-
-  count = 0;
-  context.clearRect(0,0,canvas.width,canvas.height);
-
-  // move snake by it's velocity
-  snake.x += snake.dx;
-  snake.y += snake.dy;
-
-  // wrap snake position horizontally on edge of screen
-  if (snake.x < 0) {
-    snake.x = canvas.width - grid;
-  }
-  else if (snake.x >= canvas.width) {
-    snake.x = 0;
-  }
-
-  // wrap snake position vertically on edge of screen
-  if (snake.y < 0) {
-    snake.y = canvas.height - grid;
-  }
-  else if (snake.y >= canvas.height) {
-    snake.y = 0;
-  }
-
-  // keep track of where snake has been. front of the array is always the head
-  snake.cells.unshift({x: snake.x, y: snake.y});
-
-  // remove cells as we move away from them
-  if (snake.cells.length > snake.maxCells) {
-    snake.cells.pop();
-  }
-
-  // draw apple
-  context.fillStyle = 'red';
-  context.fillRect(apple.x, apple.y, grid-1, grid-1);
-
-  // draw snake one cell at a time
-  context.fillStyle = 'green';
-  snake.cells.forEach(function(cell, index) {
-
-    // drawing 1 px smaller than the grid creates a grid effect in the snake body so you can see how long it is
-    context.fillRect(cell.x, cell.y, grid-1, grid-1);
-
-    // snake ate apple
-    if (cell.x === apple.x && cell.y === apple.y) {
-      snake.maxCells++;
-
-      // canvas is 400x400 which is 25x25 grids
-      apple.x = getRandomInt(0, 25) * grid;
-      apple.y = getRandomInt(0, 25) * grid;
-    }
-
-    // check collision with all cells after this one (modified bubble sort)
-    for (var i = index + 1; i < snake.cells.length; i++) {
-
-      // snake occupies same space as a body part. reset game
-      if (cell.x === snake.cells[i].x && cell.y === snake.cells[i].y) {
-        snake.x = 160;
-        snake.y = 160;
-        snake.cells = [];
-        snake.maxCells = 4;
-        snake.dx = grid;
-        snake.dy = 0;
-
-        apple.x = getRandomInt(0, 25) * grid;
-        apple.y = getRandomInt(0, 25) * grid;
-      }
-    }
-  });
-}
-
-// listen to keyboard events to move the snake
-document.addEventListener('keydown', function(e) {
-  // prevent snake from backtracking on itself by checking that it's
-  // not already moving on the same axis (pressing left while moving
-  // left won't do anything, and pressing right while moving left
-  // shouldn't let you collide with your own body)
-
-  // left arrow key
-  if (e.which === 37 && snake.dx === 0) {
-    snake.dx = -grid;
-    snake.dy = 0;
-  }
-  // up arrow key
-  else if (e.which === 38 && snake.dy === 0) {
-    snake.dy = -grid;
-    snake.dx = 0;
-  }
-  // right arrow key
-  else if (e.which === 39 && snake.dx === 0) {
-    snake.dx = grid;
-    snake.dy = 0;
-  }
-  // down arrow key
-  else if (e.which === 40 && snake.dy === 0) {
-    snake.dy = grid;
-    snake.dx = 0;
-  }
-});
-
-// start the game
-requestAnimationFrame(loop);
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = '//s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+if (window != top) top.location.href = location.href;
+jQuery(document).ready(function($){ $('img').removeAttr('width height'); });
+var gaProperty = 'UA-120201777-1';
+var disableStr = 'ga-disable-' + gaProperty;if (document.cookie.indexOf(disableStr + '=true') > -1) {window[disableStr] = true;}
+function gaOptout() {document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2045 23:59:59 UTC; path=/';window[disableStr] = true;alert('Google Tracking has been deactivated');}
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-120201777-1', 'auto');ga('set', 'anonymizeIp', true);ga('send', 'pageview');
 </script>
 </body>
 </html>
